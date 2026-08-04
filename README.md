@@ -50,7 +50,7 @@ creator-os/
 
 ## Roadmap
 
-- Trend Agent
+- Trend Agent (core ranking engine complete; live source pending)
 - Creator Memory
 - Prompt Compiler
 - Content workflow orchestration
